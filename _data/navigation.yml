@@ -12,7 +12,7 @@ main:
     url: /teaching/   
 
   - title: "CV"
-    url:/files/CV_Ruben_Gonzalvez.pdf 
+    url: /files/CV_Ruben_Gonzalvez.pdf 
     #url: /cv/   
     
   - title: "Portfolio"
