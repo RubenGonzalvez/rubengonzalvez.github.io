@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Rubén Gonzálvez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "PhD student at Complutense University of Madrid"
+  location         : "Madrid, Spain"
+  employer         : "Universidad Complutense de Madrid"
+  uri              :  https://www.ucm.es/
   email            : "none@example.org" 
 
   # Academic websites
