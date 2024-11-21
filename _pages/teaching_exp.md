@@ -7,7 +7,6 @@ redirect_from:
   - "/teaching_exp.html"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 2024-2025
 ======
