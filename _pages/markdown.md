@@ -3,8 +3,8 @@ permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from:  
-  - /md/
-  - /markdown.html
+  - /res/
+  - /research.html
 ---
 
 * Basic config options: _config.yml
