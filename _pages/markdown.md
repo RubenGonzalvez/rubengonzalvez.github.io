@@ -7,8 +7,6 @@ redirect_from:
   - /research.html
 ---
 
-## Publications
-
 ### Book Chapters
 
 1. **Cárdenas, L.,Villanueva, P. Gonzálvez, R.**  
