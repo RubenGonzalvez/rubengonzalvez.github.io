@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research"
-    url: /portfolio/
+  - title: "Guide"
+    url: /markdown/
 
   - title: "Teaching" 
     url: /teaching_exp/   
@@ -18,11 +18,10 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  # url: /year-archive/
     
   #- title: "CV2"
   #  url: /cv2/
     
-  - title: "Guide"
-    url: /markdown/
+
