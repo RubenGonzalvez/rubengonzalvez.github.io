@@ -1,14 +1,13 @@
 ---
 permalink: /teaching_exp/
 title: "Teaching"
+
 author_profile: true
 redirect_from: 
   - "/teach/"
   - "/teaching_exp.html"
 ---
-
-
-   
+      
 2024-2025
 ======
 
