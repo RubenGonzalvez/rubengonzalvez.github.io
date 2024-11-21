@@ -3,17 +3,8 @@ permalink: /Teaching_Exp/
 title: "Teaching"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
----
-
----
-permalink: /markdown/
-title: "Markdown"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+  - "/teach/"
+  - "/teaching_exp.html"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
