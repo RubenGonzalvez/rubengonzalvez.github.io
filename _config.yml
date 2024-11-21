@@ -27,8 +27,8 @@ author:
   bio              : "PhD student at UCM"
   location         : "Madrid, Spain"
   employer         : "UCM, Madrid"
-  uri              :  https://www.ucm.es/
-  email            : # "rubenmgo@ucm.es" 
+  uri              :  # https://www.ucm.es/
+  email            : "rubenmgo@ucm.es" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
