@@ -6,10 +6,10 @@
 
 main:
   - title: "Research"
-    url: markdown/
+    url: /markdown/
 
   - title: "Teaching" 
-    url: teaching/   
+    url: /teaching/   
 
   - title: "CV"
     url: /files/CV_Ruben_Gonzalvez.pdf 
