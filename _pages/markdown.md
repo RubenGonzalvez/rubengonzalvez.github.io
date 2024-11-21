@@ -10,13 +10,18 @@ redirect_from:
 ## Publications
 
 ### Book Chapters
-1. **Gonzálvez, R., Cárdenas, L., & Villanueva, P.**  
+
+1. **Cárdenas, L.,Villanueva, P. Gonzálvez, R.**  
+   Economic growth from the aggregate demand side: what drives the macrodynamic in Mediterranean countries?
+   In Arribas & Cárdenas (2024) *The Political Economy of Mediterranean Europe: A Growth Models Perspective*.
+
+2. **Gonzálvez, R., Cárdenas, L., & Villanueva, P.**  
    *The Evolution of Demand Regimes in Mediterranean Countries*  
    In Arribas & Cárdenas (2024) *The Political Economy of Mediterranean Europe: A Growth Models Perspective*.
 
 ---
 
-## Pre PhD publications
+## Pre-PhD publications
 
 1. **Abeledo, A., Gonzálvez, R., & Fernández, D.**  
    *Análisis de Género en la Revista Hacienda Pública Española*  
