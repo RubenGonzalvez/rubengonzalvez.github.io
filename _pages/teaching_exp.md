@@ -1,11 +1,11 @@
 ---
-permalink: /teaching_exp/
+permalink: /teaching/
 title: ""
 
 author_profile: true
 redirect_from: 
   - "/teach/"
-  - "/teaching_exp.html"
+  - "/teaching.html"
 ---
       
 2024-2025
