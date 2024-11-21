@@ -7,10 +7,19 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+2024-2025
 ======
 
-Heading 2
+* Introduction to Economics (UCM).
+
+2023-2024
 ======
+
+* Applied Economics (UCM).
+
+2021-2023
+======
+
+* Introduction to Economics (UCM).
