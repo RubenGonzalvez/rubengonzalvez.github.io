@@ -1,13 +1,11 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Research"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
-## Research
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
