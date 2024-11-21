@@ -15,16 +15,14 @@ My research focuses on applied macroeconomics, labor economics, and applied micr
 Work in progress
 ======
 
-Debt and Investment Cycles of Non-Financial Corporations in the Context of Financialization: The Case of Spain (with Luis Cárdenas).
+1. Debt and Investment Cycles of Non-Financial Corporations in the Context of Financialization: The Case of Spain (with Luis Cárdenas).
 
-The Effect of the 2019 Minimum Wage Hike on Spanish Firms (with Joaquín Artés & Jennifer Graves).
+2. The Effect of the 2019 Minimum Wage Hike on Spanish Firms (with Joaquín Artés & Jennifer Graves).
 
-An Empirical Evaluation of the Financial Instability Hypothesis: The Case of Spanish Companies.
+3. An Empirical Evaluation of the Financial Instability Hypothesis: The Case of Spanish Companies.
 
-Growth Models in Mediterranean Economies: Wages, Debt, and Exports (with Luis Cárdenas & Paloma Villanueva).
+4. Growth Models in Mediterranean Economies: Wages, Debt, and Exports (with Luis Cárdenas & Paloma Villanueva).
 
-The Effects of Political Disagreement with the Government on Mental Health (with Joaquín Artés, Fernando De la Cuesta & Beatriz Rodríguez).
+5. The Effects of Political Disagreement with the Government on Mental Health (with Joaquín Artés, Fernando De la Cuesta & Beatriz Rodríguez).
 
-Testing Consumer Inertia in Supermarket Shopping: Do Informational Nudges Change Consumer Behavior? (with Sarit Weisburd, Xinrong Zhu & Xiaolin Li).
-
-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+6. Testing Consumer Inertia in Supermarket Shopping: Do Informational Nudges Change Consumer Behavior? (with Sarit Weisburd, Xinrong Zhu & Xiaolin Li).
