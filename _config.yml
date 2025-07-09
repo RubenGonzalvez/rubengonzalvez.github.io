@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Rubén Gonzálvez"
 title_separator          : "-"
 name                     : &name "Rubén Gonzálvez"
-description              : &description "personal description"
+description: "Rubén Gonzálvez – PhD student in Economics at UCM. Research on labor markets, corporate debt, and macroeconomic cycles in Spain."
 url                      : https://rubengonzalvez.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RubenGonzalvez/https://rubengonzalvez.github.io/"
@@ -37,7 +37,7 @@ author:
   #orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Ruben-Gonzalvez
   scopus           : # URL
 
   # Repositories and software development
