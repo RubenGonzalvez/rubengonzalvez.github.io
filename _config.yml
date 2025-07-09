@@ -348,6 +348,4 @@ compress_html:
   ignore:
     envs: development
 
-# Sitemap settings (optional but helpful)
-sitemap:
-  filename: sitemap.xml
+
