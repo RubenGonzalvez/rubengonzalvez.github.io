@@ -14,7 +14,7 @@ name                     : &name "Rubén Gonzálvez"
 description: "Rubén Gonzálvez – PhD student in Economics at UCM. Research on labor markets, corporate debt, and macroeconomic cycles in Spain."
 url                      : https://rubengonzalvez.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RubenGonzalvez/https://rubengonzalvez.github.io/"
+repository               : "RubenGonzalvez/rubengonzalvez.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
