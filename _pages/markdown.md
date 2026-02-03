@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-### Refereed publications
+## Refereed publications
 
 1. **Gonzálvez, R.** & Cárdenas, L. (2025). "Leverage, Liquidity, and Investment: The Cyclical Effects of Corporate Debt". *Economic Modelling*. [Link](https://www.sciencedirect.com/science/article/pii/S0264999325004523)
 
@@ -23,7 +23,7 @@ redirect_from:
 
 ---
 
-## Pre-PhD publications
+### Pre-PhD publications
 
 1. Abeledo, A., **Gonzálvez, R.**, & Fernández, D.  
    *Análisis de Género en la Revista Hacienda Pública Española*  
