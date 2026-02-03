@@ -13,11 +13,11 @@ redirect_from:
 
 ### Book Chapters
 
-1. **Cárdenas, L.,Villanueva, P. Gonzálvez, R.**  
+1. *Cárdenas, L.,Villanueva, **P. Gonzálvez, R.**  
    Economic growth from the aggregate demand side: what drives the macrodynamic in Mediterranean countries?
    In Arribas & Cárdenas (2024) *The Political Economy of Mediterranean Europe: A Growth Models Perspective*.
 
-2. **Gonzálvez, R., Cárdenas, L., & Villanueva, P.**  
+2. **Gonzálvez, R.**, Cárdenas, L., & Villanueva, P.*  
    *The Evolution of Demand Regimes in Mediterranean Countries*  
    In Arribas & Cárdenas (2024) *The Political Economy of Mediterranean Europe: A Growth Models Perspective*.
 
