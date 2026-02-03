@@ -8,17 +8,14 @@ redirect_from:
   - "/teaching.html"
 ---
       
-2024-2025
+Introduction to Economics (UCM): 2021-2022, 2022-2023, 2024-2025, 2025-2026
 ======
 
-* Introduction to Economics (UCM).
-
-2023-2024
+Applied Economics (UCM): 2021-2022, 2022-2023, 2025-2026
 ======
 
-* Applied Economics (UCM).
-
-2021-2023
+Economics and Project Management (UCM): 2024-2025, 2025-2026
 ======
 
-* Introduction to Economics (UCM).
+Microeconometric methods (UCM): 2024-2025, 2025-2026
+======
