@@ -15,13 +15,13 @@ My research focuses on applied macroeconomics, labor economics, and applied micr
 Work in progress
 ======
 
-1. Leverage, Liquidity, and Investment: The Cyclical Effects of Corporate Debt (with Luis Cárdenas).
+1. The Effect of the 2019 Minimum Wage Hike on Spanish Firms (with Joaquín Artés & Jennifer Graves).
 
-2. The Effect of the 2019 Minimum Wage Hike on Spanish Firms (with Joaquín Artés & Jennifer Graves).
+2. The impact of minimum wage hikes on consumption (with Daniel Fernández, Luis Cárdenas & Paloma Villanueva).
 
 3. An Empirical Evaluation of the Financial Instability Hypothesis: The Case of Spanish Companies.
 
-4. Growth Models in Mediterranean Economies: Wages, Debt, and Exports (with Luis Cárdenas & Paloma Villanueva).
+4. Diagnosing Identification in IV-Local Projections (with Daniel Fernández).
 
 5. The Effects of Political Disagreement with the Government on Mental Health (with Joaquín Artés, Fernando De la Cuesta & Beatriz Rodríguez).
 
