@@ -16,15 +16,9 @@ Work in progress
 ======
 
 1. The Effect of the 2019 Minimum Wage Hike on Spanish Firms (with Joaquín Artés & Jennifer Graves).
-
 2. The impact of minimum wage hikes on consumption (with Daniel Fernández, Luis Cárdenas & Paloma Villanueva).
-
 3. An Empirical Evaluation of the Financial Instability Hypothesis: The Case of Spanish Companies.
-
 4. Diagnosing Identification in IV-Local Projections (with Daniel Fernández).
-
 5. The Effects of Political Disagreement with the Government on Mental Health (with Joaquín Artés, Fernando De la Cuesta & Beatriz Rodríguez).
-
 6. Testing Consumer Inertia in Supermarket Shopping: Do Informational Nudges Change Consumer Behavior? (with Sarit Weisburd, Xinrong Zhu & Xiaolin Li).
-
 7. Fiscal and Monetary Policy Distributional Effect on Income (with Daniel Fernández).
