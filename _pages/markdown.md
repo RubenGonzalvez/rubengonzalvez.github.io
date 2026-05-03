@@ -9,7 +9,9 @@ redirect_from:
 
 ## Refereed publications
 
-1. **Gonzálvez, R.** & Cárdenas, L. (2025). "Leverage, Liquidity, and Investment: The Cyclical Effects of Corporate Debt". *Economic Modelling*. [Link](https://www.sciencedirect.com/science/article/pii/S0264999325004523)
+1. **Gonzálvez, R.** & Fernández, D. (2026). "The Weight of History: Diagnosing Identification in IV-Local Projections". *Applied Economics Letters*. [Link](https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2666382)
+
+2. **Gonzálvez, R.** & Cárdenas, L. (2025). "Leverage, Liquidity, and Investment: The Cyclical Effects of Corporate Debt". *Economic Modelling*. [Link](https://www.sciencedirect.com/science/article/pii/S0264999325004523)
 
 ---
 
@@ -21,13 +23,11 @@ redirect_from:
 
 3. **Gonzálvez, R.** "An Empirical Evaluation of the Financial Instability Hypothesis: The Case of Spanish Companies". *Working paper*.
 
-4. **Gonzálvez, R.** & Fernández, D. "Diagnosing Identification in IV-Local Projections". *Working paper*.
+4. **Gonzálvez, R.**, Artés, J., De la Cuesta, F., & Rodríguez, B. "The Effects of Political Disagreement with the Government on Mental Health". *Working paper*.
 
-5. **Gonzálvez, R.**, Artés, J., De la Cuesta, F., & Rodríguez, B. "The Effects of Political Disagreement with the Government on Mental Health". *Working paper*.
+5. **Gonzálvez, R.**, Weisburd, S., Zhu, X., & Li, X. "Testing Consumer Inertia in Supermarket Shopping: Do Informational Nudges Change Consumer Behavior?". *Working paper*.
 
-6. **Gonzálvez, R.**, Weisburd, S., Zhu, X., & Li, X. "Testing Consumer Inertia in Supermarket Shopping: Do Informational Nudges Change Consumer Behavior?". *Working paper*.
-
-7. **Gonzálvez, R.** & Fernández, D. "Fiscal and Monetary Policy Distributional Effect on Income". *Working paper*.
+6. **Gonzálvez, R.** & Fernández, D. "Fiscal and Monetary Policy Distributional Effect on Income". *Working paper*.
 
 ---
 
