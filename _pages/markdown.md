@@ -7,6 +7,14 @@ redirect_from:
   - /research.html
 ---
 
+<style>
+  .page__content h2,
+  .page__content h3 {
+    color: #6c757d;
+    font-weight: 600;
+  }
+</style>
+
 ## Refereed publications
 
 **The Weight of History: Diagnosing Identification in IV-Local Projections** (with Daniel Fernández Romero), *Applied Economics Letters*, 2026. <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2666382">[link]</a>
