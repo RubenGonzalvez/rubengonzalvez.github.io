@@ -6,7 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Economics at the Complutense University of Madrid. I am a member of the research group Economic Analysis, Design and Evaluation of Public Policies from [UCM](https://www.ucm.es/grupos/grupo/1011) and I also collaborate with the research group on Labor And Structural Transformations in Spain and the European Union [LAST](https://www.ucm.es/last). My research focuses on applied macroeconomics, labor economics, and applied microeconometrics. 
+I am an Assistant Professor of Economics at the Complutense University of Madrid (Faculty of Law). I received my PhD from UCM in 2025 and was a Visiting Researcher at the Hebrew University of Jerusalem in 2023–2024.
+
+My research lies at the intersection of labor economics, empirical macroeconomics, and applied microeconometrics. I use Spanish administrative data and quasi-experimental designs to study how policy shocks such as minimum wage hikes, monetary policy, and fiscal redistribution affect firms, workers, and households.
 
 ### Contact information
 
