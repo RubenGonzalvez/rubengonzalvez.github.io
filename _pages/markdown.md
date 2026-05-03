@@ -39,7 +39,7 @@ redirect_from:
 
 ---
 
-### Book Chapters
+## Book Chapters
 
 **Economic Growth from the Aggregate Demand Side: What Drives the Macrodynamic in Mediterranean Countries?** (with Luis Cárdenas and Paloma Villanueva), in Arribas & Cárdenas (2024), *The Political Economy of Mediterranean Europe: A Growth Models Perspective*.
 
@@ -47,7 +47,7 @@ redirect_from:
 
 ---
 
-### Pre-PhD publications
+## Pre-PhD publications
 
 **Análisis de Género en la Revista Hacienda Pública Española** (with Ana Abeledo and Daniel Fernández Romero), *Papeles de Trabajo del Instituto de Estudios Fiscales, Serie Economía* (5), 1–18, 2020.
 
