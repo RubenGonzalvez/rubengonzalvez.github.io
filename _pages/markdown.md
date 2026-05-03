@@ -10,8 +10,8 @@ redirect_from:
 <style>
   .page__content h2,
   .page__content h3 {
-    color: #6c757d;
-    font-weight: 600;
+    color: #9a9a9a !important;
+    font-weight: 500 !important;
   }
 </style>
 
