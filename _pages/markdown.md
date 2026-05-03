@@ -9,9 +9,9 @@ redirect_from:
 
 ## Refereed publications
 
-**The Weight of History: Diagnosing Identification in IV-Local Projections** (with Daniel Fernández Romero), *Applied Economics Letters*, 2026. [link](https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2666382)
+**The Weight of History: Diagnosing Identification in IV-Local Projections** (with Daniel Fernández Romero), *Applied Economics Letters*, 2026. [\[link\]](https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2666382)
 
-**Leverage, Liquidity, and Investment: The Cyclical Effects of Corporate Debt** (with Luis Cárdenas), *Economic Modelling*, 2026. [link](https://www.sciencedirect.com/science/article/pii/S0264999325004523)
+**Leverage, Liquidity, and Investment: The Cyclical Effects of Corporate Debt** (with Luis Cárdenas), *Economic Modelling*, 2026. [\[link\]](https://www.sciencedirect.com/science/article/pii/S0264999325004523)
 
 ---
 
