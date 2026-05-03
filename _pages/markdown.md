@@ -29,7 +29,7 @@ redirect_from:
 
 **The Impact of Minimum Wage Hikes on Consumption** (with Daniel Fernández Romero, Luis Cárdenas, and Paloma Villanueva), *Working paper*.
 
-**An Empirical Evaluation of the Financial Instability Hypothesis: The Case of Spanish Companies**, *Working paper*.
+**Financial Instability and Firm Investment: The Case of Spanish Companies**, *Working paper*.
 
 **The Effects of Political Disagreement with the Government on Mental Health** (with Joaquín Artés, Fernando De la Cuesta, and Beatriz Rodríguez), *Working paper*.
 
