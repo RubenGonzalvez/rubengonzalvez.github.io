@@ -9,7 +9,7 @@ redirect_from:
 
 **Introduction to Economics (UCM):** 2021/2022, 2022/2023, 2024/2025, 2025/2026
 
-**Applied Economics Methods (UCM):** 2021/2022, 2022/2023, 2025/2026
+**Applied Economic Methods for Labour Relationships (UCM):** 2021/2022, 2022/2023, 2025/2026
 
 **Economics and Project Management (UCM):** 2024/2025, 2025/2026
 
