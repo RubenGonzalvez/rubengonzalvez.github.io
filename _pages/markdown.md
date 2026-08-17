@@ -37,7 +37,7 @@ redirect_from:
 
 **The Effects of Political Disagreement with the Government on Mental Health** (with Joaquín Artés, Fernando De la Cuesta, and Beatriz Rodríguez), *Working paper*.
 
-**Who Benefits? Distributional Effects of Fiscal Policy on Household Income** (with Daniel Fernández Romero), *Working paper*.
+**Who Benefits? Distributional Effects of Fiscal Policy on Household Income** (with Daniel Fernández Romero), *Working paper*. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7167945">[link]</a>
 
 ---
 
