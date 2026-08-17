@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: ""
+title: "Universidad Complutense de Madrid"
 author_profile: true
 redirect_from:
   - "/teach/"
