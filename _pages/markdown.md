@@ -17,6 +17,8 @@ redirect_from:
 
 ## Refereed publications
 
+**Swap and Save: How a Button Shapes Lasting Online Grocery Shopping Behavior** (with Sarit Weisburd, Xinrong Zhu, and Xiaolin Li), *Marketing Science*, forthcoming.
+
 **The Weight of History: Diagnosing Identification in IV-Local Projections** (with Daniel Fernández Romero), *Applied Economics Letters*, 2026. <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2666382">[link]</a>
 
 **Leverage, Liquidity, and Investment: The Cyclical Effects of Corporate Debt** (with Luis Cárdenas), *Economic Modelling*, 2026. <a href="https://www.sciencedirect.com/science/article/pii/S0264999325004523">[link]</a>
@@ -25,17 +27,17 @@ redirect_from:
 
 ## Work in Progress
 
-**The Effect of the 2019 Minimum Wage Hike on Spanish Firms** (with Joaquín Artés and Jennifer Graves), *Working paper*.
+**Minimum Wages and Firm Adaptation: Investment and Productivity Responses to a Large Wage Hike** (with Joaquín Artés and Jennifer Graves), *Working paper*.
 
-**The Impact of Minimum Wage Hikes on Consumption** (with Daniel Fernández Romero, Luis Cárdenas, and Paloma Villanueva), *Working paper*.
+**Consumption Responses to the Minimum Wage** (with Daniel Fernández Romero, Luis Cárdenas, and Paloma Villanueva), *Working paper*.
 
-**Financial Instability and Firm Investment: The Case of Spanish Companies**, *Working paper*.
+**Subminimum Wages for Young Workers and Equity Norms** (with Ferran Elias, Daniel Fernández Romero, and Marc Riudavets-Barcons), *Working paper*.
+
+**Financial Fragility and the Collapse of Corporate Investment**, *Working paper*.
 
 **The Effects of Political Disagreement with the Government on Mental Health** (with Joaquín Artés, Fernando De la Cuesta, and Beatriz Rodríguez), *Working paper*.
 
-**Testing Consumer Inertia in Supermarket Shopping: Do Informational Nudges Change Consumer Behavior?** (with Sarit Weisburd, Xinrong Zhu, and Xiaolin Li), *Working paper*.
-
-**Fiscal and Monetary Policy Distributional Effect on Income** (with Daniel Fernández Romero), *Working paper*.
+**Who Benefits? Distributional Effects of Fiscal Policy on Household Income** (with Daniel Fernández Romero), *Working paper*.
 
 ---
 
