@@ -13,6 +13,10 @@ redirect_from:
     color: #9a9a9a !important;
     font-weight: 500 !important;
   }
+
+  .page__content h2 {
+    margin-top: 1em;
+  }
 </style>
 
 ## Refereed publications
