@@ -29,6 +29,8 @@ redirect_from:
 
 **Who Benefits? Distributional Effects of Fiscal Policy on Household Income** (with Daniel Fernández Romero). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7167945">[link]</a>
 
+**The Effects of Political Disagreement with the Government on Mental Health** (with Joaquín Artés, Fernando De la Cuesta, and Beatriz Rodríguez).
+
 ---
 
 ## Work in Progress
@@ -40,8 +42,6 @@ redirect_from:
 **Subminimum Wages for Young Workers and Equity Norms** (with Ferran Elias, Daniel Fernández Romero, and Marc Riudavets-Barcons).
 
 **Financial Fragility and the Collapse of Corporate Investment**.
-
-**The Effects of Political Disagreement with the Government on Mental Health** (with Joaquín Artés, Fernando De la Cuesta, and Beatriz Rodríguez).
 
 ---
 
