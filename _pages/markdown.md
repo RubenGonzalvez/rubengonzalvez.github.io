@@ -25,19 +25,23 @@ redirect_from:
 
 ---
 
+## Working Papers
+
+**Who Benefits? Distributional Effects of Fiscal Policy on Household Income** (with Daniel Fernández Romero). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7167945">[link]</a>
+
+---
+
 ## Work in Progress
 
-**Minimum Wages and Firm Adaptation: Investment and Productivity Responses to a Large Wage Hike** (with Joaquín Artés and Jennifer Graves), *Working paper*.
+**Minimum Wages and Firm Adaptation: Investment and Productivity Responses to a Large Wage Hike** (with Joaquín Artés and Jennifer Graves).
 
-**Consumption Responses to the Minimum Wage** (with Daniel Fernández Romero, Luis Cárdenas, and Paloma Villanueva), *Working paper*.
+**Consumption Responses to the Minimum Wage** (with Daniel Fernández Romero, Luis Cárdenas, and Paloma Villanueva).
 
-**Subminimum Wages for Young Workers and Equity Norms** (with Ferran Elias, Daniel Fernández Romero, and Marc Riudavets-Barcons), *Working paper*.
+**Subminimum Wages for Young Workers and Equity Norms** (with Ferran Elias, Daniel Fernández Romero, and Marc Riudavets-Barcons).
 
-**Financial Fragility and the Collapse of Corporate Investment**, *Working paper*.
+**Financial Fragility and the Collapse of Corporate Investment**.
 
-**The Effects of Political Disagreement with the Government on Mental Health** (with Joaquín Artés, Fernando De la Cuesta, and Beatriz Rodríguez), *Working paper*.
-
-**Who Benefits? Distributional Effects of Fiscal Policy on Household Income** (with Daniel Fernández Romero), *Working paper*. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7167945">[link]</a>
+**The Effects of Political Disagreement with the Government on Mental Health** (with Joaquín Artés, Fernando De la Cuesta, and Beatriz Rodríguez).
 
 ---
 
