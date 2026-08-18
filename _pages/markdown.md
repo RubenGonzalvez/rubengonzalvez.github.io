@@ -21,7 +21,7 @@ redirect_from:
 
 ## Refereed publications
 
-**Swap and Save: How a Button Shapes Lasting Online Grocery Shopping Behavior** (with Xiaolin Li, <a href="https://saritw.weebly.com/research.html">Sarit Weisburd</a>, and <a href="https://xinrong.uk/">Xinrong Zhu</a>), *Marketing Science*, forthcoming. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5048332">[link]</a>
+**Swap and Save: How a Button Shapes Lasting Online Grocery Shopping Behavior** (with <a href="https://www.polyu.edu.hk/mm/people/academic-staff/dr-xiaolin-li/">Xiaolin Li</a>, <a href="https://saritw.weebly.com/research.html">Sarit Weisburd</a>, and <a href="https://xinrong.uk/">Xinrong Zhu</a>), *Marketing Science*, forthcoming. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5048332">[link]</a>
 
 **The Weight of History: Diagnosing Identification in IV-Local Projections** (with <a href="https://sites.google.com/view/danielfernandezromero/research">Daniel Fernández Romero</a>), *Applied Economics Letters*, 2026. <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2666382">[link]</a>
 
