@@ -10,6 +10,6 @@ I am an Assistant Professor of Economics at the Complutense University of Madrid
 
 ### Contact information
 
-rubenmgo@ucm.es<br>
+<a href="mailto:rubenmgo@ucm.es">rubenmgo@ucm.es</a><br>
 Department of Applied Economics, Public Economics and Political Economy<br>
 Complutense University of Madrid, Spain
