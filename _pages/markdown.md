@@ -29,7 +29,7 @@ redirect_from:
 
 ## Refereed publications
 
-**The Effects of Political Disagreement with the Government on Mental Health** (with <a class="coauthor" href="https://sites.google.com/view/joaquinartes">Joaquín Artés</a>, <a class="coauthor" href="https://sites.google.com/view/fernandodelacuesta/home">Fernando De la Cuesta</a>, and <a class="coauthor" href="https://sites.google.com/view/beatrizrodriguezsanchez/inicio">Beatriz Rodríguez</a>), *Health Economics*, forthcoming.
+**The Effects of Political Disagreement with the Government on Mental Health** (with <a class="coauthor" href="https://sites.google.com/view/joaquinartes">Joaquín Artés</a>, <a class="coauthor" href="https://sites.google.com/view/fernandodelacuesta/home">Fernando De la Cuesta</a>, and <a class="coauthor" href="https://sites.google.com/view/beatrizrodriguezsanchez/inicio">Beatriz Rodríguez</a>), *Health Economics*, accepted.
 
 **Swap and Save: How a Button Shapes Lasting Online Grocery Shopping Behavior** (with <a class="coauthor" href="https://www.polyu.edu.hk/mm/people/academic-staff/dr-xiaolin-li/">Xiaolin Li</a>, <a class="coauthor" href="https://saritw.weebly.com/research.html">Sarit Weisburd</a>, and <a class="coauthor" href="https://xinrong.uk/">Xinrong Zhu</a>), *Marketing Science*, forthcoming. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5048332">[link]</a>
 
