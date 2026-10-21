@@ -36,7 +36,7 @@ redirect_from:
 </div>
 
 <div class="course">
-  <p class="course-title">Applied Economic Methods for Labour Relationships</p>
+  <p class="course-title">Applied Economic Methods for Labor Relations</p>
   <p class="course-meta">Universidad Complutense de Madrid</p>
   <p class="course-years">2021/22 &middot; 2022/23 &middot; 2025/26</p>
 </div>
