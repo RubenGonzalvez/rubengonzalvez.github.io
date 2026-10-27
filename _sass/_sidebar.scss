@@ -258,3 +258,75 @@
     }
   }
 }
+
+/*
+   Author profile on small screens
+   ========================================================================== */
+
+// Below $large the theme shows the photo as a 36px thumbnail. Lay the profile
+// out as a card instead: photo on the left, with name, bio and the Follow
+// button stacked beside it. Nothing here applies from $large up.
+
+@include breakpoint(max-width ($large - 1px)) {
+  .sidebar {
+    margin-bottom: 1.5em;
+  }
+
+  .sidebar > [itemscope] {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    grid-template-rows: 1fr auto auto 1fr; // the 1fr rows center the text on the photo
+    column-gap: 1em;
+  }
+
+  div.author__avatar {
+    grid-column: 1;
+    grid-row: span 4;
+    width: auto;
+
+    img {
+      display: block;
+      width: 100%;
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+
+  .author__content {
+    grid-column: 2;
+    grid-row: 2;
+    padding: 0;
+    line-height: 1.25;
+  }
+
+  .sidebar .author__name {
+    font-size: $type-size-4;
+  }
+
+  .sidebar .author__bio {
+    margin-top: 0.25em;
+    font-size: 0.875em;
+  }
+
+  .author__urls-wrapper {
+    grid-column: 2;
+    grid-row: 3;
+    justify-self: start;
+    margin-top: 0.75em;
+
+    button {
+      font-size: 0.875em;
+    }
+  }
+
+  .author__urls {
+    right: auto;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+  }
+
+  .sidebar .author__urls li {
+    font-size: 0.875em;
+  }
+}
