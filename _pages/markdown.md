@@ -31,7 +31,7 @@ redirect_from:
 
 **The Effects of Political Misalignment with the Government on Individual Well-Being and Mental Health** (with <a class="coauthor" href="https://sites.google.com/view/joaquinartes">Joaquín Artés</a>, <a class="coauthor" href="https://sites.google.com/view/fernandodelacuesta/home">Fernando De la Cuesta</a>, and <a class="coauthor" href="https://sites.google.com/view/beatrizrodriguezsanchez/inicio">Beatriz Rodríguez</a>), *Health Economics*, 2026. <a href="https://onlinelibrary.wiley.com/doi/10.1002/hec.70157">[link]</a>
 
-**Swap and Save: How a Button Shapes Lasting Online Grocery Shopping Behavior** (with <a class="coauthor" href="https://www.polyu.edu.hk/mm/people/academic-staff/dr-xiaolin-li/">Xiaolin Li</a>, <a class="coauthor" href="https://saritw.weebly.com/research.html">Sarit Weisburd</a>, and <a class="coauthor" href="https://xinrong.uk/">Xinrong Zhu</a>), *Marketing Science*, forthcoming. <a href="https://cepr.org/publications/dp21901">[link]</a>
+**Swap and Save: How a Button Shapes Lasting Online Grocery Shopping Behavior** (with <a class="coauthor" href="https://www.polyu.edu.hk/mm/people/academic-staff/dr-xiaolin-li/">Xiaolin Li</a>, <a class="coauthor" href="https://saritw.weebly.com/research.html">Sarit Weisburd</a>, and <a class="coauthor" href="https://xinrong.uk/">Xinrong Zhu</a>), *Marketing Science*, 2026. <a href="https://pubsonline.informs.org/doi/10.1287/mksc.2025.0541">[link]</a>
 
 **The Weight of History: Diagnosing Identification in IV-Local Projections** (with <a class="coauthor" href="https://sites.google.com/view/danielfernandezromero/research">Daniel Fernández Romero</a>), *Applied Economics Letters*, 2026. <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2666382">[link]</a>
 
